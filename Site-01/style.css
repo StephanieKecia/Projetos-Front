@@ -1,0 +1,161 @@
+@charset "UTF-8";
+
+@font-face {
+font-family:'android';
+src: url('fontes/idroid.otf') format('opentype');
+}
+
+/*
+:root{
+    --cor0: codigo da cor;
+    --cor1: codigo da cor;
+
+    --fonte-padrao: nome da fonte
+*/
+
+body{
+    background-color: rgb(144, 238, 194);
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+header{
+    text-align: center;
+    color: white;
+    height: 150px;
+    width: auto;
+    background-image: linear-gradient(to bottom,rgb(144, 238, 194), rgb(51, 83, 68));
+}
+
+nav{
+    text-align: left;
+    margin: 30px 15px;
+
+}
+
+nav>p{
+    display: inline;
+    padding: 0px 10px;
+    font-weight: bold;
+}
+
+nav>p:hover{
+    background-color:rgb(125, 206, 168);
+    color:rgb(51, 83, 68);
+    cursor: pointer;
+    padding: 8px 8px;
+    border-radius: 5px;
+    transition-duration: 0.2s;
+}
+
+main{
+    background-color: white;
+    text-align: center;
+    text-align: justify;
+    padding: 2px 20px;
+    min-width: 300px;
+    max-width:800px;   
+    margin: auto;
+    margin-bottom: 30px;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.616);
+}
+
+img{
+    width: 100%;
+}
+
+.pequena{
+    max-width:350px;
+    display: block;
+    margin: auto;
+}
+
+article>p{
+    margin: auto;
+    text-indent: 50px;
+    line-height: 25px;
+}
+
+article>h1,h2{
+    font-family:'android',sans-serif;
+    font-weight: normal;
+}
+
+article>h1{
+    width: auto;
+    font-size: 28px;
+    color:rgb(59, 97, 79)
+}
+
+article>h2{
+    font-size: 22px;
+    color:rgb(59, 97, 79);
+    background-image: linear-gradient(to right,rgb(144, 238, 194), transparent);
+    
+}
+
+article>p>a{
+    text-decoration: none;
+    color:rgb(50, 184, 119) ;
+}
+
+
+.video{
+    background-color: rgb(59, 97, 79);
+    margin-top: 20px;
+    padding: 20px;  
+    margin: 0px -20px;
+    position: relative;
+    padding-bottom: 50%;
+        
+}
+
+.video > iframe{
+    position:absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+
+}
+
+aside{
+    background-color:rgb(180, 247, 215);
+    border-radius: 10px;
+    padding: 0px;
+    margin: 10px;
+}
+
+aside>h3{
+    background-color:rgb(76, 155, 118) ;
+    color: white;
+    padding: 10px;
+    border-radius: 10px 10px 0 0;
+
+}
+aside>ul{
+    list-style-type: '\2714\00A0';
+    list-style-position: inside;
+    columns: 2;
+    margin: auto;
+
+}
+
+aside>p{
+    padding: 5px 10px;
+    text-indent: 50px;
+}
+
+.ult{
+    padding-bottom: 30px;
+}
+
+footer{
+    background-color:rgb(51, 83, 68);
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
