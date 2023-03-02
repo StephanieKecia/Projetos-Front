@@ -33,6 +33,11 @@ header{
     header{
         padding-bottom: 80px;
     }
+    header>nav{
+       margin: auto;
+       font-size: 14px;
+       padding-top: 25px;
+    }
 }
 
 
