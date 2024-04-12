@@ -1,0 +1,7 @@
+C:\Users\t117580294\Desktop\Codigos\Udemy\Projeto-Pedidos\Projeto-Pedidos\bin\Debug\Projeto-Pedidos.exe.config
+C:\Users\t117580294\Desktop\Codigos\Udemy\Projeto-Pedidos\Projeto-Pedidos\bin\Debug\Projeto-Pedidos.exe
+C:\Users\t117580294\Desktop\Codigos\Udemy\Projeto-Pedidos\Projeto-Pedidos\bin\Debug\Projeto-Pedidos.pdb
+C:\Users\t117580294\Desktop\Codigos\Udemy\Projeto-Pedidos\Projeto-Pedidos\obj\Debug\Projeto-Pedidos.csproj.AssemblyReference.cache
+C:\Users\t117580294\Desktop\Codigos\Udemy\Projeto-Pedidos\Projeto-Pedidos\obj\Debug\Projeto-Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\t117580294\Desktop\Codigos\Udemy\Projeto-Pedidos\Projeto-Pedidos\obj\Debug\Projeto-Pedidos.exe
+C:\Users\t117580294\Desktop\Codigos\Udemy\Projeto-Pedidos\Projeto-Pedidos\obj\Debug\Projeto-Pedidos.pdb
