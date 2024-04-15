@@ -40,6 +40,35 @@ namespace Formularios
         {
 
         }
-       
+
+        private ClasseNegocio GetClsUser()
+        {
+            return clsUser;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            DataTable dt = new DataTable();
+            clsUser.usuario = textBox1.Text;
+            clsUser.senha = textBox2.Text;
+            dt = clsEnt.N_Login(clsUser);
+            if(dt.Rows.Count > 0)
+            {
+                MessageBox.Show("Bem vindo!" + dt.Rows[0][0].ToString(), "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                 usuario_nome = dt.Rows[0][0].ToString();
+                id_tipo = dt.Rows[0][1].ToString();
+                usuario_geral = dt.Rows[0][2].ToString();
+                usuario_codigo = dt.Rows[0][3].ToString();
+                this.Hide();
+                f.ShowDialog();
+                Limpar();
+            }
+            else
+            {
+                MessageBox.Show("Usuário ou senha errada", "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                Limpar();
+            }
+
+        }
     }
 }
