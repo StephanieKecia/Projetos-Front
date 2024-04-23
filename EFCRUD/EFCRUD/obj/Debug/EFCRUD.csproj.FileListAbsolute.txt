@@ -1,0 +1,15 @@
+C:\Users\skeci\OneDrive\Área de Trabalho\Work\Projetos\CRUD\EFCRUD\EFCRUD\obj\Debug\EFCRUD.csproj.AssemblyReference.cache
+C:\Users\skeci\OneDrive\Área de Trabalho\Work\Projetos\CRUD\EFCRUD\EFCRUD\obj\Debug\EFCRUD.Form1.resources
+C:\Users\skeci\OneDrive\Área de Trabalho\Work\Projetos\CRUD\EFCRUD\EFCRUD\obj\Debug\EFCRUD.Properties.Resources.resources
+C:\Users\skeci\OneDrive\Área de Trabalho\Work\Projetos\CRUD\EFCRUD\EFCRUD\obj\Debug\EFCRUD.csproj.GenerateResource.cache
+C:\Users\skeci\OneDrive\Área de Trabalho\Work\Projetos\CRUD\EFCRUD\EFCRUD\obj\Debug\EFCRUD.csproj.CoreCompileInputs.cache
+C:\Users\skeci\OneDrive\Área de Trabalho\Work\Projetos\CRUD\EFCRUD\EFCRUD\bin\Debug\EFCRUD.exe.config
+C:\Users\skeci\OneDrive\Área de Trabalho\Work\Projetos\CRUD\EFCRUD\EFCRUD\bin\Debug\EFCRUD.exe
+C:\Users\skeci\OneDrive\Área de Trabalho\Work\Projetos\CRUD\EFCRUD\EFCRUD\bin\Debug\EFCRUD.pdb
+C:\Users\skeci\OneDrive\Área de Trabalho\Work\Projetos\CRUD\EFCRUD\EFCRUD\bin\Debug\EntityFramework.dll
+C:\Users\skeci\OneDrive\Área de Trabalho\Work\Projetos\CRUD\EFCRUD\EFCRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\skeci\OneDrive\Área de Trabalho\Work\Projetos\CRUD\EFCRUD\EFCRUD\bin\Debug\EntityFramework.xml
+C:\Users\skeci\OneDrive\Área de Trabalho\Work\Projetos\CRUD\EFCRUD\EFCRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\skeci\OneDrive\Área de Trabalho\Work\Projetos\CRUD\EFCRUD\EFCRUD\obj\Debug\EFCRUD.csproj.CopyComplete
+C:\Users\skeci\OneDrive\Área de Trabalho\Work\Projetos\CRUD\EFCRUD\EFCRUD\obj\Debug\EFCRUD.exe
+C:\Users\skeci\OneDrive\Área de Trabalho\Work\Projetos\CRUD\EFCRUD\EFCRUD\obj\Debug\EFCRUD.pdb
